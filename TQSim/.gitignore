@@ -1,0 +1,17 @@
+*.out
+*.gch
+.vscode/*
+test
+test.cpp
+*.o
+tqsim-*
+*/__pycache__/*
+out/*
+results/*
+*.out
+*.log
+.DS_Store
+
+venv/
+
+venv/

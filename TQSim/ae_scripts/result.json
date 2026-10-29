@@ -1,0 +1,105 @@
+Running tests with circuit: ../benchmark_circuits/adder/adder_n10_0.txt
+Doing test
+Baselie Simulation time: 9429(ms), Tree Simulation time: 3188(ms)
+Speedups: 2.9577
+
+REF normalized fidelity: 0.4405
+
+EXP normalized fidelity: 0.4482, diff: 0.7630%
+
+9429
+3188
+2.957736
+0.440535
+0.448165
+
+Running tests with circuit: ../benchmark_circuits/adder/adder_n4_2.txt
+Doing test
+Baselie Simulation time: 453(ms), Tree Simulation time: 234(ms)
+Speedups: 1.9339
+
+REF normalized fidelity: 0.8993
+
+EXP normalized fidelity: 0.9118, diff: 1.2430%
+
+453
+234
+1.933851
+0.899332
+0.911762
+
+Running tests with circuit: ../benchmark_circuits/shor/shor_n6_0.txt
+Doing test
+Baselie Simulation time: 4(ms), Tree Simulation time: 2(ms)
+Speedups: 1.5187
+
+REF normalized fidelity: 0.9598
+
+EXP normalized fidelity: 0.9726, diff: 1.2735%
+
+4
+2
+1.518672
+0.959835
+0.972570
+
+Running tests with circuit: ../benchmark_circuits/shor/shor_n6_1.txt
+Doing test
+Baselie Simulation time: 4(ms), Tree Simulation time: 1(ms)
+Speedups: 2.4881
+
+REF normalized fidelity: 0.9677
+
+EXP normalized fidelity: 0.9736, diff: 0.5878%
+
+4
+1
+2.488124
+0.967672
+0.973550
+
+Running tests with circuit: ../benchmark_circuits/shor/shor_n6_0.txt
+Doing test
+Baselie Simulation time: 5(ms), Tree Simulation time: 2(ms)
+Speedups: 1.8745
+
+REF normalized fidelity: 0.9628
+
+EXP normalized fidelity: 0.9589, diff: 0.3919%
+
+5
+2
+1.874525
+0.962774
+0.958856
+
+Running tests with circuit: ../benchmark_circuits/shor/shor_n6_2.txt
+Doing test
+Baselie Simulation time: 4(ms), Tree Simulation time: 1(ms)
+Speedups: 2.4540
+
+REF normalized fidelity: 0.9647
+
+EXP normalized fidelity: 0.9745, diff: 0.9796%
+
+4
+1
+2.453974
+0.964733
+0.974530
+
+Running tests with circuit: ../benchmark_circuits/qft/qft_n10.txt
+Doing test
+Baselie Simulation time: 15221(ms), Tree Simulation time: 5314(ms)
+Speedups: 2.8643
+
+REF normalized fidelity: 0.5052
+
+EXP normalized fidelity: 0.5101, diff: 0.4867%
+
+15221
+5314
+2.864256
+0.505213
+0.510080
+
